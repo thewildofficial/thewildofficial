@@ -2,7 +2,7 @@
 
 🌟 **Hi, I'm Aban Hasan (thewildofficial)!**
 
-A first-year CS student at Carleton University, Ottawa 🇨🇦, passionate about cybersecurity, Python, and AI.
+A first-year CS student at Scalar School of Technology (Bangalore 🇮🇳) passionate about cybersecurity, Python, and AI.
 
 [![Website](https://img.shields.io/badge/Website-abanhasan.net-blue)](https://abanhasan.net)
 [![Email](https://img.shields.io/badge/Email-abanhasan@tutanota.com-red)](mailto:abanhasan@tutanota.com)
@@ -12,7 +12,7 @@ A first-year CS student at Carleton University, Ottawa 🇨🇦, passionate abou
 
 ## $ whoami
 
-- 🎓 **First-year CS student at Carleton University, Ottawa**
+- 🎓 **First-year CS student at SST**
 - 💻 **Passionate about cybersecurity, Python, and AI**
 - 🦀 **Currently learning Rust and embedded systems**
 - 🚀 **My passion is shipping cool projects fast**
